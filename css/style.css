@@ -72,12 +72,14 @@ nav {
     width: 40%;
     background-color: crimson;
     height: 300px;
+    border: 5px dashed orange;
 }
 
 .images {
     width: 60%;
     background-color: pink;
-    height: 300px
+    height: 300px;
+    border: 5px dashed orange;
 }
  
 #reverse {
@@ -86,4 +88,14 @@ nav {
 
 .grigio {
     height: 500px;
+}
+
+.centro {
+    text-align: center;
+    height: 500px;
+    width: 1170px;
+}
+
+#bislungo {
+    height: 700px;
 }
