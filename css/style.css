@@ -110,6 +110,7 @@ nav {
     width: 1170px;
     margin: auto;
     padding-top: 50px;
+    
 }
 
 .lista_l {
@@ -125,4 +126,32 @@ nav {
     border: 5px dashed orange;
     height: 300px;
 }
-    
+ 
+.footer_bottom {
+    margin-top: 5px;
+    background-color: darkslategrey;
+    padding-top: 10px;
+}
+
+#footer_desc {
+    justify-content: space-between;
+    align-items: center;
+    border: 5px dashed orange;
+}
+
+.loghi {
+    width: 50px;
+    height: 20px;
+    background-color: orange;
+    border: 5px dashed red;
+}
+
+.btn {
+    width: 50px;
+    height: 20px;
+    background-color: orange;
+    border: 5px dashed red;
+}
+
+
+
