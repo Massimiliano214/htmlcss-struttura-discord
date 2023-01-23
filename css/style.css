@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header_top {
+    
+    height: 85px;
+    background-color: blue;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+    background-color: blue;
+    align-items: center;
+}
+.container-flex {
+    height: 85px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    background-color: bisque;
+    height: 30px;
+    width: 20%;
+    border: 5px dashed orange;
+}
+
+nav {
+    background-color: silver;
+    height: 30px;
+    width: 80%;
+    border: 5px dashed orange;
+    text-align: center;
+}
+
+.button {
+    background-color: salmon;
+    height: 30px;
+    width: 20%;
+    border: 5px dashed orange;
+    text-align: end;
+}
+
+.img {
+    background-color: sienna;
+    height: 300px;
+}
+
+#testo_p {
+    height: 250px;
+    align-items: center;
+    width: 1170px;
+    border: 5px dashed orange;
+}
